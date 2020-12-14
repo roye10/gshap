@@ -1,6 +1,6 @@
 # GSHAP
 
-The GSHAP module is a direct extension to Scott Lundberg and Su-In Lee's [Kernel Shap](https://github.com/slundberg/shap/blob/master/shap/explainers/_kernel.py).
+The GSHAP module is a direct extension to Scott Lundberg and Su-In Lee's [kernel Shap](https://github.com/slundberg/shap/blob/master/shap/explainers/_kernel.py).
 
 The GSHAP module computes global SHAP values, based on the approach used by Scott Lundberg and Su-In Lee in their paper ["A Unified Approach to Interpreting Model Predictions"](https://arxiv.org/abs/1705.07874).
 
