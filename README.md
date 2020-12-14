@@ -12,7 +12,3 @@ The GSHAP method uses the [kernel SHAP](https://github.com/slundberg/shap/blob/m
 - area under the roc score
 
 This score can be used for model selection, in order to improve the model with respect to a certain score measure.
-
-## Sample Image (Number of Features > 100)
-
-![Global SHAP values](ShapleyLorenz/Pictures/Accuracy_score.png)
