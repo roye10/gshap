@@ -11,4 +11,6 @@ The GSHAP method uses the [kernel SHAP](https://github.com/slundberg/shap/blob/m
 - precision score
 - area under the roc score
 
-This score can be used for model selection, in order to improve the model with respect to a certain score measure.
+### Examples of Possible Use Cases
+- **model selection**, in order to decide on a model with the most coherent explanation as suggested by domain expertise
+- **feature selection**, with respect to a certain score measure that is of most importance given the use case
